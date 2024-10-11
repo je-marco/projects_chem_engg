@@ -1,4 +1,5 @@
 # Portfolio Projects  
+This portfolio highlights my proficiency in a range of tools and skills such as Excel, Python, Data Analysis, Data Visualization, and Machine Learning.  
 
 ---
 ## EXCEL: POWER QUERY, DATA VALIDATION, CONDITIONAL FORMATTING, VLOOKUP, VBA | REPORT AUTOMATION
