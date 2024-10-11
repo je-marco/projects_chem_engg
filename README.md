@@ -1,4 +1,4 @@
-# Portfolio Projects  
+# PORTFOLIO PROJECTS
 This portfolio highlights my proficiency in a range of tools and skills such as Excel, Python, Data Analysis, Data Visualization, and Machine Learning.  
 
 ---
