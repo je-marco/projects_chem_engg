@@ -4,11 +4,15 @@
 ## EXCEL: POWER QUERY, DATA VALIDATION, CONDITIONAL FORMATTING, VLOOKUP, VBA | REPORT AUTOMATION
 AUTOMATIC CERTIFICATE OF ANALYSIS MAKE
 - [X] Automated the creation of Certificates of Analysis (CoA) using Excel by integrating data from multiple sources and generating a product's certificate of analysis with minimal manual effort.
+![coamaker](https://github.com/je-marco/coamaker/blob/922d881da3f159242317a279eab19157d090ff03/coa_maker.png)
+
+[Show More](https://github.com/je-marco/coamaker.git)
+
 ---  
 
     
   
---- 
+---
 ## IBM COGNOS ANALYTICS | DATA VISUALIZATION
 MONITORING OF BOTTLE MANUFACTURING PROCESS
 - [X] Created a data module and an interactive dashboard to effectively monitor the bottle manufacturing process of a fictional industrial manufacturing. 
@@ -33,7 +37,7 @@ ENERGY CONSUMPTION ANALYSIS
 
 
          
---- 
+---
 ## PYTHON: NumPy, Pandas, Scikit-learn, Matplotlib | MACHINE LEARNING | DATA ANALYSIS
 [PREDICTING THE QUALITY OF WHITE WINE](https://docs.google.com/presentation/d/1oDFPnfKkoBjCuXTg55KydqY83c-4uBwVb0ZATAKvQlY/edit?usp=sharing)
 - [X] Leveraged machine learning algorithms to predict the quality of white wines based on objective analytical test results with the goal of reducing the inherent subjectivity present in human sensory analysis.
