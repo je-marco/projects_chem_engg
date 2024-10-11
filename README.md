@@ -1,13 +1,6 @@
 # Portfolio Projects  
 
 --- 
-
-## TO DO: EXCEL | STATISTICAL ANALYSIS OF EXPERIMENTAL DATA
-**Objective:** Perform statistical analysis on chemical experimental data.  
-**Data:** Experimental measurements, uncertainties.  
-**Analysis:** Use Excel for regression analysis, t-tests, ANOVA, and to calculate mean, standard deviation, and confidence intervals. Visualize data with scatter plots and error bars.
----  
-
 ## **IBM COGNOS ANALYTICS | DATA VISUALIZATION**
 MONITORING OF BOTTLE MANUFACTURING PROCESS
 - [X] Created a data module and an interactive dashboard to effectively monitor the bottle manufacturing process of a fictional industrial manufacturing. 
