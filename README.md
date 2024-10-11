@@ -29,7 +29,6 @@
 **ENERGY CONSUMPTION ANALYSIS**
 - [X] Dynamic analysis of Daewoo Steel Year 2018 Energy Consumption
 
-  
 ![Overview_image](https://github.com/je-marco/energy_consumption_analysis/blob/7259fab560126c081a6bd1d675d80ca96d374181/overview.png)
 
 [Show More](https://github.com/je-marco/energy_consumption_analysis)
