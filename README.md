@@ -21,3 +21,13 @@ ENERGY CONSUMPTION ANALYSIS
 [Show More](https://github.com/je-marco/energy_consumption_analysis)
 
 ---
+
+---
+
+## PYTHON (NumPy, Pandas, Scikit-learn, Matplotlib) | MACHINE LEARNING | DATA ANALYSIS
+[PREDICTING THE QUALITY OF WHITE WINE](https://docs.google.com/presentation/d/1oDFPnfKkoBjCuXTg55KydqY83c-4uBwVb0ZATAKvQlY/edit?usp=sharing)
+- [X] Leveraged machine learning algorithms to predict the quality of white wines based on objective analytical test results with the goal of reducing the inherent subjectivity present in human sensory analysis.
+  
+[Show More](https://github.com/je-marco/Wine-Quality-Prediction.git)
+
+---  
